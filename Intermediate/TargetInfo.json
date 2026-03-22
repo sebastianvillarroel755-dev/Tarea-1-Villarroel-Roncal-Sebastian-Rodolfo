@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NavesLAB01USFX",
+			"Path": "D:\\src_SIS457\\NavesLAB01USFX\\Source\\NavesLAB01USFX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NavesLAB01USFXEditor",
+			"Path": "D:\\src_SIS457\\NavesLAB01USFX\\Source\\NavesLAB01USFXEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

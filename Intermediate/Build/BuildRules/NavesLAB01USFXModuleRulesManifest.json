@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\NavesLAB01USFX-master\\NavesLAB01USFX-master\\Source\\NavesLAB01USFX\\NavesLAB01USFX.Build.cs",
+		"D:\\NavesLAB01USFX-master\\NavesLAB01USFX-master\\Source\\NavesLAB01USFX.Target.cs",
+		"D:\\NavesLAB01USFX-master\\NavesLAB01USFX-master\\Source\\NavesLAB01USFXEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

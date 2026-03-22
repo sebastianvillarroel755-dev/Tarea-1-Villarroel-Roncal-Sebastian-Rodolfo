@@ -1,0 +1,3 @@
+D:\NavesLAB01USFX-master\NavesLAB01USFX-master\Intermediate\Build\Win64\UE4Editor\Development\NavesLAB01USFX\Definitions.NavesLAB01USFX.h
+D:\NavesLAB01USFX-master\NavesLAB01USFX-master\Source\NavesLAB01USFX\Enemigo.h
+D:\NavesLAB01USFX-master\NavesLAB01USFX-master\Intermediate\Build\Win64\UE4Editor\Inc\NavesLAB01USFX\Enemigo.generated.h
